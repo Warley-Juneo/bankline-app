@@ -1,6 +1,7 @@
 # WsDioBanklineApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+The objective of this project is to consume my bankiline-api and bring some information, and also add account holders and transactions.
 
 ## Development server
 
